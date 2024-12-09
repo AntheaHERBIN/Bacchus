@@ -15,6 +15,12 @@ build/
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+*.class
+*.jar
+*.war
+*.log
+target/
+.idea/
 
 ### Eclipse ###
 .apt_generated
